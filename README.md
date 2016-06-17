@@ -60,6 +60,7 @@ Tools (public and commercial):
 Studies and publications:
 * http://www.springerlink.com/content/n6l6526n16847kh8/
 * http://www.sciencedirect.com/science/article/pii/S1742287609000048
+
 Books:
 * http://www.amazon.com/Definitive-Guide-SQLite-Mike-Owens/dp/1590596730
 * http://books.google.es/books/about/Inside_SQLite.html?id=QoxUx8GOjKMC&redir_esc=y
